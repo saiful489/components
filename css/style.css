@@ -1,0 +1,9 @@
+.alert-red{
+	color: #ff0729;
+    background-color: #fffefc;
+    border-color: #f90808;
+}
+
+.btn-red{
+	background-color: red;
+}
